@@ -2,7 +2,7 @@ clear
 echo
 echo
 echo
-echo "\e[0m\e[1;35m
+echo -e "\e[0m\e[1;35m
 	█░░ █▀█ ▄▀█ █▀▄ █ █▄░█ █▀▀
 	█▄▄ █▄█ █▀█ █▄▀ █ █░▀█ █▄█"
 echo
